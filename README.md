@@ -12,14 +12,6 @@ The Custom Linux Shell includes the following main features:
 
 - **Linux Pipes**: Linux pipes allow the execution of multiple and complex concatenated commands. Pipes enable the output of one command to be used as input for another command in a sequential manner. This feature enhances the functionality of the shell by supporting the execution of more advanced and versatile command combinations.
 
-## Demo Screenshots
-
-![Screenshot from 2023-06-16 22-31-16](https://github.com/MoosaImran50/Linux-Shell/assets/108832275/3cd93a6f-047f-4c9b-9327-a42e165bf1a0)
-![Screenshot from 2023-06-16 22-33-10](https://github.com/MoosaImran50/Linux-Shell/assets/108832275/e561ccc5-6396-45d2-96cf-b5d600194864)
-![Screenshot from 2023-06-16 22-35-33](https://github.com/MoosaImran50/Linux-Shell/assets/108832275/69b6f883-4e2c-4610-a2a7-e865fc5e31d1)
-![Screenshot from 2023-06-16 22-40-39](https://github.com/MoosaImran50/Linux-Shell/assets/108832275/2c1b41e9-1c28-4ac0-b39d-6a21f75df310)
-
-
 ## Usage
 
 To run the Custom Linux Shell, follow these steps:
@@ -36,3 +28,10 @@ Here are a few example commands that can be executed in the Custom Linux Shell:
 - Input Redirection: `command < input.txt`
 - Output Redirection: `command > output.txt`
 - Linux Pipes: `command1 | command2`
+
+## Demo Screenshots
+
+![Screenshot from 2023-06-16 22-31-16](https://github.com/MoosaImran50/Linux-Shell/assets/108832275/3cd93a6f-047f-4c9b-9327-a42e165bf1a0)
+![Screenshot from 2023-06-16 22-33-10](https://github.com/MoosaImran50/Linux-Shell/assets/108832275/e561ccc5-6396-45d2-96cf-b5d600194864)
+![Screenshot from 2023-06-16 22-35-33](https://github.com/MoosaImran50/Linux-Shell/assets/108832275/69b6f883-4e2c-4610-a2a7-e865fc5e31d1)
+![Screenshot from 2023-06-16 22-40-39](https://github.com/MoosaImran50/Linux-Shell/assets/108832275/2c1b41e9-1c28-4ac0-b39d-6a21f75df310)
